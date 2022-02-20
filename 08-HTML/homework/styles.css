@@ -1,0 +1,20 @@
+h1 {
+    COLOR: GREEN; 
+}
+img{
+     width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: blue;
+    padding: 50px;
+    border: 100px red solid; 
+    
+}
+#spandID {
+    margin: 50px;
+    font-size: 18px;
+
+
+}
